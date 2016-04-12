@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Git",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Pretty JSON"
