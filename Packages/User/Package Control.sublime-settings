@@ -5,9 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"Elm Language Support",
 		"Git",
+		"InsertDate",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"Package Control",
 		"Pretty JSON"
 	]
 }

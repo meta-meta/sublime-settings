@@ -1,3 +1,9 @@
 [
 	{ "keys": ["ctrl+y"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },	
+
+	// Insert datetime using default format text
+  	{ "keys": ["ctrl+shift+alt+d"], "command": "insert_date" },
+
+	{ "keys": ["ctrl+d"], "command": "duplicate_line" },
+
 ]
