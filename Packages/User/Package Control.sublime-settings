@@ -11,6 +11,7 @@
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
-		"Pretty JSON"
+		"Pretty JSON",
+		"SublimeREPL"
 	]
 }
