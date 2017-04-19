@@ -11,7 +11,9 @@
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
+		"paredit",
 		"Pretty JSON",
+		"Rainbowth",
 		"SublimeREPL"
 	]
 }
