@@ -42,6 +42,12 @@
 	  { "keys": ["ctrl+shift+l"], "command": "socket_send_line" },
 	  { "keys": ["ctrl+shift+b"], "command": "socket_send_block" },
 	  { "keys": ["ctrl+shift+alt+p"], "command": "socket_send_paragraph" },
-	  { "keys": ["ctrl+shift+f"], "command": "socket_send_file", "args": { "show_code": true } }
+	  { "keys": ["ctrl+shift+f"], "command": "socket_send_file", "args": { "show_code": true } },
+
+	// reset overridden command palette
+	{ "keys": ["ctrl+shift+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+
+
+
 
 ]

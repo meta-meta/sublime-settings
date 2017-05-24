@@ -1,6 +1,6 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_size": 14,
+	"color_scheme": "Packages/Monokai.tmTheme",
+	"font_size": 17,
 	"ignored_packages":
 	[
 		"Vintage"
