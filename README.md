@@ -9,6 +9,8 @@ Local is ignored because that's session data and auto-save
 * Markdown Preview
 * MarkdownEditing
 * Pretty JSON
-* Socket (Arcadia) - config changes
+* Socket (Arcadia) - key bindings
 * SublimeREPL
 * Tagify - need to figure out config for ad-hoc tags
+* Rainbowth - had to extract theme files and some other config changes
+* Paredit - key bindings
