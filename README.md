@@ -19,7 +19,7 @@ Local is ignored because that's session data and auto-save
 [keybindings](https://github.com/meta-meta/sublime-settings/blob/master/Packages/User/Default%20(Windows).sublime-keymap)
 
 ## Arcadia/Clojure keybindings
-ctrl+i - indent
-ctrl+shift+l - send line to repl
-ctrl+shift+b - send block to repl
-...
+* ctrl+i - lispindent
+* ctrl+shift+l - send line to repl
+* ctrl+shift+b - send block to repl
+
