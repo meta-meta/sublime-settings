@@ -47,7 +47,7 @@
 	// reset overridden command palette
 	{ "keys": ["ctrl+shift+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
 
-
+	{ "keys": ["alt+1"], "command": "toggle_side_bar" },
 
 
 ]
